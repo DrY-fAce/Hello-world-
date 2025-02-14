@@ -4,7 +4,7 @@
 ## Как запустить
 1. Склонируй репозиторий:
    ```bash
-   git clone https://github.com/DrY-fAce/Hello, world.git
+   git clone https://github.com/drI-caT/Hello, world.git
 
 2. Скомпилируй программу:
    ```bash 
